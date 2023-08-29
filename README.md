@@ -1,2 +1,3 @@
-# Large-scale-least-squares-twin-support-vector-machines-for-class-imbalance-learning
-This code is of the paper Large-scale-least-squares-twin-support-vector-machines-for-class-imbalance-learning submitted to IEEE Transactions on Cybernetics.
+# Please cite the following if you are using this code:
+
+Ganaie, M. A., Tanveer, M., & Lin, C. T. (2022). Large-scale fuzzy least squares twin SVMs for class imbalance learning. IEEE Transactions on Fuzzy Systems, 30(11), 4815-4827.
